@@ -1,2 +1,2 @@
 # Basic-Platformer
-A basic platformer made using vanilla javascript.
+A basic platformer made using p5js.
